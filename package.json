@@ -33,6 +33,6 @@
 		"jsonwebtoken": "^9.0.2",
 		"mongoose": "^7.5.0",
 		"svelte-fa": "^3.0.4",
-		"uuid": "^9.0.0"
+		"uuid": "^9.0.1"
 	}
 }
