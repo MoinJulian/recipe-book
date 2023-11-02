@@ -16,7 +16,7 @@
 		"@sveltejs/kit": "^1.27.2",
 		"@types/bcrypt": "^5.0.1",
 		"@types/jsonwebtoken": "^9.0.4",
-		"@types/uuid": "^9.0.5",
+		"@types/uuid": "^9.0.6",
 		"prettier": "^2.8.0",
 		"prettier-plugin-svelte": "^2.10.1",
 		"sass": "^1.69.5",
