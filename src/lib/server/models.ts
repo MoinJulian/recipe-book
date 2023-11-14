@@ -6,7 +6,7 @@ const User_Schema = new mongoose.Schema({
 		password: { type: String, require: true },
 		name: { type: String, require: true }
 	},
-	recipe: [
+	recipes: [
 		{
 			title: { type: String },
 			description: { type: String },
